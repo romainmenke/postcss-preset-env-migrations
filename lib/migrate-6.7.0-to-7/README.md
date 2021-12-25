@@ -21,6 +21,13 @@ Any change to how this package behaves would defeat the purpose of providing a b
 
 Intended to be used side by side with `postcss-preset-env` v7.x which only supports PostCSS v8.x.
 
+```js
+const migration = require('postcss-preset-env-migrate-6.7.0-to-7');
+
+postcss([migration()]).process(css).then(result => {
+	console.log(result.css);
+});
+```
 
 ## Doesn't support JS Modules.
 
