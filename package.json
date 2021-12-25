@@ -5,9 +5,11 @@
   "main": "index.js",
   "workspaces": [
     "lib/*",
-    "postcss/*",
     "vscode/*"
   ],
   "author": "Romain Menke",
-  "license": "MIT"
+  "license": "MIT",
+  "volta": {
+    "node": "12.22.8"
+  }
 }

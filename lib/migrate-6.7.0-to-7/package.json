@@ -25,5 +25,8 @@
     "postcss": "^8.0.0"
   },
   "author": "Romain Menke",
-  "license": "MIT"
+  "license": "MIT",
+  "volta": {
+    "node": "12.22.8"
+  }
 }

@@ -22,6 +22,10 @@ After this one time fix, you can update to the next version of `postcss-preset-e
 5. `enter`
 6. save your file
 
+![Screenshot showing this command in the VSCode command palette](https://user-images.githubusercontent.com/11521496/147384647-1bb788ea-58de-4230-9834-6218f97b35a2.png)
+
+![Screenshot showing this available migrations for this command, currently only "6.7.0 -> 7.x"](https://user-images.githubusercontent.com/11521496/147384648-9af9e90c-d24b-45ee-b8b8-883a34fe4d14.png)
+
 ## Change Log
 
 ### 1.0.0
