@@ -1,0 +1,13 @@
+{
+  "name": "postcss-preset-env-migrations",
+  "version": "1.0.0",
+  "description": "Migrate your CSS source code to the next version of postcss-preset-env",
+  "main": "index.js",
+  "workspaces": [
+    "lib/*",
+    "postcss/*",
+    "vscode/*"
+  ],
+  "author": "Romain Menke",
+  "license": "MIT"
+}
